@@ -1,0 +1,281 @@
+ProjectID,WorkerID,WorkerSkill,WorkerCertification,SupplierID,SupplierPhone,MaterialSupplied,EquipmentUsed
+P001,W01,Carpentry,OSHA,S01,617-555-9000,Concrete,Crane
+P001,W01,Carpentry,OSHA,S01,617-555-9000,Concrete,Bulldozer
+P001,W01,Carpentry,OSHA,S01,617-555-9000,Steel,Crane
+P001,W01,Carpentry,OSHA,S01,617-555-9000,Steel,Bulldozer
+P001,W01,Carpentry,OSHA,S01,617-555-9001,Concrete,Crane
+P001,W01,Carpentry,OSHA,S01,617-555-9001,Concrete,Bulldozer
+P001,W01,Carpentry,OSHA,S01,617-555-9001,Steel,Crane
+P001,W01,Carpentry,OSHA,S01,617-555-9001,Steel,Bulldozer
+P001,W01,Carpentry,First Aid,S01,617-555-9000,Concrete,Crane
+P001,W01,Carpentry,First Aid,S01,617-555-9000,Concrete,Bulldozer
+P001,W01,Carpentry,First Aid,S01,617-555-9000,Steel,Crane
+P001,W01,Carpentry,First Aid,S01,617-555-9000,Steel,Bulldozer
+P001,W01,Carpentry,First Aid,S01,617-555-9001,Concrete,Crane
+P001,W01,Carpentry,First Aid,S01,617-555-9001,Concrete,Bulldozer
+P001,W01,Carpentry,First Aid,S01,617-555-9001,Steel,Crane
+P001,W01,Carpentry,First Aid,S01,617-555-9001,Steel,Bulldozer
+P001,W01,Framing,OSHA,S01,617-555-9000,Concrete,Crane
+P001,W01,Framing,OSHA,S01,617-555-9000,Concrete,Bulldozer
+P001,W01,Framing,OSHA,S01,617-555-9000,Steel,Crane
+P001,W01,Framing,OSHA,S01,617-555-9000,Steel,Bulldozer
+P001,W01,Framing,OSHA,S01,617-555-9001,Concrete,Crane
+P001,W01,Framing,OSHA,S01,617-555-9001,Concrete,Bulldozer
+P001,W01,Framing,OSHA,S01,617-555-9001,Steel,Crane
+P001,W01,Framing,OSHA,S01,617-555-9001,Steel,Bulldozer
+P001,W01,Framing,First Aid,S01,617-555-9000,Concrete,Crane
+P001,W01,Framing,First Aid,S01,617-555-9000,Concrete,Bulldozer
+P001,W01,Framing,First Aid,S01,617-555-9000,Steel,Crane
+P001,W01,Framing,First Aid,S01,617-555-9000,Steel,Bulldozer
+P001,W01,Framing,First Aid,S01,617-555-9001,Concrete,Crane
+P001,W01,Framing,First Aid,S01,617-555-9001,Concrete,Bulldozer
+P001,W01,Framing,First Aid,S01,617-555-9001,Steel,Crane
+P001,W01,Framing,First Aid,S01,617-555-9001,Steel,Bulldozer
+P001,W02,Electrical,OSHA,S01,617-555-9000,Concrete,Crane
+P001,W02,Electrical,OSHA,S01,617-555-9000,Concrete,Bulldozer
+P001,W02,Electrical,OSHA,S01,617-555-9000,Steel,Crane
+P001,W02,Electrical,OSHA,S01,617-555-9000,Steel,Bulldozer
+P001,W02,Electrical,OSHA,S01,617-555-9001,Concrete,Crane
+P001,W02,Electrical,OSHA,S01,617-555-9001,Concrete,Bulldozer
+P001,W02,Electrical,OSHA,S01,617-555-9001,Steel,Crane
+P001,W02,Electrical,OSHA,S01,617-555-9001,Steel,Bulldozer
+P001,W02,Electrical,Electrical License,S01,617-555-9000,Concrete,Crane
+P001,W02,Electrical,Electrical License,S01,617-555-9000,Concrete,Bulldozer
+P001,W02,Electrical,Electrical License,S01,617-555-9000,Steel,Crane
+P001,W02,Electrical,Electrical License,S01,617-555-9000,Steel,Bulldozer
+P001,W02,Electrical,Electrical License,S01,617-555-9001,Concrete,Crane
+P001,W02,Electrical,Electrical License,S01,617-555-9001,Concrete,Bulldozer
+P001,W02,Electrical,Electrical License,S01,617-555-9001,Steel,Crane
+P001,W02,Electrical,Electrical License,S01,617-555-9001,Steel,Bulldozer
+P001,W02,Wiring,OSHA,S01,617-555-9000,Concrete,Crane
+P001,W02,Wiring,OSHA,S01,617-555-9000,Concrete,Bulldozer
+P001,W02,Wiring,OSHA,S01,617-555-9000,Steel,Crane
+P001,W02,Wiring,OSHA,S01,617-555-9000,Steel,Bulldozer
+P001,W02,Wiring,OSHA,S01,617-555-9001,Concrete,Crane
+P001,W02,Wiring,OSHA,S01,617-555-9001,Concrete,Bulldozer
+P001,W02,Wiring,OSHA,S01,617-555-9001,Steel,Crane
+P001,W02,Wiring,OSHA,S01,617-555-9001,Steel,Bulldozer
+P001,W02,Wiring,Electrical License,S01,617-555-9000,Concrete,Crane
+P001,W02,Wiring,Electrical License,S01,617-555-9000,Concrete,Bulldozer
+P001,W02,Wiring,Electrical License,S01,617-555-9000,Steel,Crane
+P001,W02,Wiring,Electrical License,S01,617-555-9000,Steel,Bulldozer
+P001,W02,Wiring,Electrical License,S01,617-555-9001,Concrete,Crane
+P001,W02,Wiring,Electrical License,S01,617-555-9001,Concrete,Bulldozer
+P001,W02,Wiring,Electrical License,S01,617-555-9001,Steel,Crane
+P001,W02,Wiring,Electrical License,S01,617-555-9001,Steel,Bulldozer
+P001,W03,Project Management,PMP,S02,312-555-8000,Steel Beams,Crane
+P001,W03,Project Management,PMP,S02,312-555-8001,Steel Beams,Crane
+P001,W03,Project Management,OSHA,S02,312-555-8000,Steel Beams,Crane
+P001,W03,Project Management,OSHA,S02,312-555-8001,Steel Beams,Crane
+P001,W03,Planning,PMP,S02,312-555-8000,Steel Beams,Crane
+P001,W03,Planning,PMP,S02,312-555-8001,Steel Beams,Crane
+P001,W03,Planning,OSHA,S02,312-555-8000,Steel Beams,Crane
+P001,W03,Planning,OSHA,S02,312-555-8001,Steel Beams,Crane
+P002,W01,Carpentry,OSHA,S03,305-555-7000,Rebar,Excavator
+P002,W01,Carpentry,OSHA,S03,305-555-7000,Rebar,Crane
+P002,W01,Carpentry,OSHA,S03,305-555-7000,Concrete,Excavator
+P002,W01,Carpentry,OSHA,S03,305-555-7000,Concrete,Crane
+P002,W01,Carpentry,First Aid,S03,305-555-7000,Rebar,Excavator
+P002,W01,Carpentry,First Aid,S03,305-555-7000,Rebar,Crane
+P002,W01,Carpentry,First Aid,S03,305-555-7000,Concrete,Excavator
+P002,W01,Carpentry,First Aid,S03,305-555-7000,Concrete,Crane
+P002,W01,Concrete,OSHA,S03,305-555-7000,Rebar,Excavator
+P002,W01,Concrete,OSHA,S03,305-555-7000,Rebar,Crane
+P002,W01,Concrete,OSHA,S03,305-555-7000,Concrete,Excavator
+P002,W01,Concrete,OSHA,S03,305-555-7000,Concrete,Crane
+P002,W01,Concrete,First Aid,S03,305-555-7000,Rebar,Excavator
+P002,W01,Concrete,First Aid,S03,305-555-7000,Rebar,Crane
+P002,W01,Concrete,First Aid,S03,305-555-7000,Concrete,Excavator
+P002,W01,Concrete,First Aid,S03,305-555-7000,Concrete,Crane
+P002,W04,Welding,OSHA,S03,305-555-7000,Rebar,Excavator
+P002,W04,Welding,OSHA,S03,305-555-7000,Rebar,Crane
+P002,W04,Welding,OSHA,S03,305-555-7000,Concrete,Excavator
+P002,W04,Welding,OSHA,S03,305-555-7000,Concrete,Crane
+P002,W04,Welding,Welding Cert,S03,305-555-7000,Rebar,Excavator
+P002,W04,Welding,Welding Cert,S03,305-555-7000,Rebar,Crane
+P002,W04,Welding,Welding Cert,S03,305-555-7000,Concrete,Excavator
+P002,W04,Welding,Welding Cert,S03,305-555-7000,Concrete,Crane
+P002,W04,Steel Fixing,OSHA,S03,305-555-7000,Rebar,Excavator
+P002,W04,Steel Fixing,OSHA,S03,305-555-7000,Rebar,Crane
+P002,W04,Steel Fixing,OSHA,S03,305-555-7000,Concrete,Excavator
+P002,W04,Steel Fixing,OSHA,S03,305-555-7000,Concrete,Crane
+P002,W04,Steel Fixing,Welding Cert,S03,305-555-7000,Rebar,Excavator
+P002,W04,Steel Fixing,Welding Cert,S03,305-555-7000,Rebar,Crane
+P002,W04,Steel Fixing,Welding Cert,S03,305-555-7000,Concrete,Excavator
+P002,W04,Steel Fixing,Welding Cert,S03,305-555-7000,Concrete,Crane
+P003,W02,Electrical,Electrical License,S01,617-555-9000,Bricks,Mixer
+P003,W02,Electrical,Electrical License,S01,617-555-9000,Bricks,Forklift
+P003,W02,Electrical,Electrical License,S01,617-555-9000,Cement,Mixer
+P003,W02,Electrical,Electrical License,S01,617-555-9000,Cement,Forklift
+P003,W02,Electrical,Electrical License,S01,617-555-9001,Bricks,Mixer
+P003,W02,Electrical,Electrical License,S01,617-555-9001,Bricks,Forklift
+P003,W02,Electrical,Electrical License,S01,617-555-9001,Cement,Mixer
+P003,W02,Electrical,Electrical License,S01,617-555-9001,Cement,Forklift
+P003,W02,Electrical,First Aid,S01,617-555-9000,Bricks,Mixer
+P003,W02,Electrical,First Aid,S01,617-555-9000,Bricks,Forklift
+P003,W02,Electrical,First Aid,S01,617-555-9000,Cement,Mixer
+P003,W02,Electrical,First Aid,S01,617-555-9000,Cement,Forklift
+P003,W02,Electrical,First Aid,S01,617-555-9001,Bricks,Mixer
+P003,W02,Electrical,First Aid,S01,617-555-9001,Bricks,Forklift
+P003,W02,Electrical,First Aid,S01,617-555-9001,Cement,Mixer
+P003,W02,Electrical,First Aid,S01,617-555-9001,Cement,Forklift
+P003,W02,Inspection,Electrical License,S01,617-555-9000,Bricks,Mixer
+P003,W02,Inspection,Electrical License,S01,617-555-9000,Bricks,Forklift
+P003,W02,Inspection,Electrical License,S01,617-555-9000,Cement,Mixer
+P003,W02,Inspection,Electrical License,S01,617-555-9000,Cement,Forklift
+P003,W02,Inspection,Electrical License,S01,617-555-9001,Bricks,Mixer
+P003,W02,Inspection,Electrical License,S01,617-555-9001,Bricks,Forklift
+P003,W02,Inspection,Electrical License,S01,617-555-9001,Cement,Mixer
+P003,W02,Inspection,Electrical License,S01,617-555-9001,Cement,Forklift
+P003,W02,Inspection,First Aid,S01,617-555-9000,Bricks,Mixer
+P003,W02,Inspection,First Aid,S01,617-555-9000,Bricks,Forklift
+P003,W02,Inspection,First Aid,S01,617-555-9000,Cement,Mixer
+P003,W02,Inspection,First Aid,S01,617-555-9000,Cement,Forklift
+P003,W02,Inspection,First Aid,S01,617-555-9001,Bricks,Mixer
+P003,W02,Inspection,First Aid,S01,617-555-9001,Bricks,Forklift
+P003,W02,Inspection,First Aid,S01,617-555-9001,Cement,Mixer
+P003,W02,Inspection,First Aid,S01,617-555-9001,Cement,Forklift
+P003,W04,Welding,Welding Cert,S01,617-555-9000,Bricks,Mixer
+P003,W04,Welding,Welding Cert,S01,617-555-9000,Bricks,Forklift
+P003,W04,Welding,Welding Cert,S01,617-555-9000,Cement,Mixer
+P003,W04,Welding,Welding Cert,S01,617-555-9000,Cement,Forklift
+P003,W04,Welding,Welding Cert,S01,617-555-9001,Bricks,Mixer
+P003,W04,Welding,Welding Cert,S01,617-555-9001,Bricks,Forklift
+P003,W04,Welding,Welding Cert,S01,617-555-9001,Cement,Mixer
+P003,W04,Welding,Welding Cert,S01,617-555-9001,Cement,Forklift
+P003,W04,Welding,OSHA,S01,617-555-9000,Bricks,Mixer
+P003,W04,Welding,OSHA,S01,617-555-9000,Bricks,Forklift
+P003,W04,Welding,OSHA,S01,617-555-9000,Cement,Mixer
+P003,W04,Welding,OSHA,S01,617-555-9000,Cement,Forklift
+P003,W04,Welding,OSHA,S01,617-555-9001,Bricks,Mixer
+P003,W04,Welding,OSHA,S01,617-555-9001,Bricks,Forklift
+P003,W04,Welding,OSHA,S01,617-555-9001,Cement,Mixer
+P003,W04,Welding,OSHA,S01,617-555-9001,Cement,Forklift
+P003,W04,Carpentry,Welding Cert,S01,617-555-9000,Bricks,Mixer
+P003,W04,Carpentry,Welding Cert,S01,617-555-9000,Bricks,Forklift
+P003,W04,Carpentry,Welding Cert,S01,617-555-9000,Cement,Mixer
+P003,W04,Carpentry,Welding Cert,S01,617-555-9000,Cement,Forklift
+P003,W04,Carpentry,Welding Cert,S01,617-555-9001,Bricks,Mixer
+P003,W04,Carpentry,Welding Cert,S01,617-555-9001,Bricks,Forklift
+P003,W04,Carpentry,Welding Cert,S01,617-555-9001,Cement,Mixer
+P003,W04,Carpentry,Welding Cert,S01,617-555-9001,Cement,Forklift
+P003,W04,Carpentry,OSHA,S01,617-555-9000,Bricks,Mixer
+P003,W04,Carpentry,OSHA,S01,617-555-9000,Bricks,Forklift
+P003,W04,Carpentry,OSHA,S01,617-555-9000,Cement,Mixer
+P003,W04,Carpentry,OSHA,S01,617-555-9000,Cement,Forklift
+P003,W04,Carpentry,OSHA,S01,617-555-9001,Bricks,Mixer
+P003,W04,Carpentry,OSHA,S01,617-555-9001,Bricks,Forklift
+P003,W04,Carpentry,OSHA,S01,617-555-9001,Cement,Mixer
+P003,W04,Carpentry,OSHA,S01,617-555-9001,Cement,Forklift
+P004,W01,Concrete,OSHA,S02,312-555-8000,Steel Beams,Crane
+P004,W01,Concrete,OSHA,S02,312-555-8000,Steel Beams,Lift
+P004,W01,Concrete,OSHA,S02,312-555-8000,Glass Panels,Crane
+P004,W01,Concrete,OSHA,S02,312-555-8000,Glass Panels,Lift
+P004,W01,Concrete,OSHA,S02,312-555-8001,Steel Beams,Crane
+P004,W01,Concrete,OSHA,S02,312-555-8001,Steel Beams,Lift
+P004,W01,Concrete,OSHA,S02,312-555-8001,Glass Panels,Crane
+P004,W01,Concrete,OSHA,S02,312-555-8001,Glass Panels,Lift
+P004,W01,Concrete,First Aid,S02,312-555-8000,Steel Beams,Crane
+P004,W01,Concrete,First Aid,S02,312-555-8000,Steel Beams,Lift
+P004,W01,Concrete,First Aid,S02,312-555-8000,Glass Panels,Crane
+P004,W01,Concrete,First Aid,S02,312-555-8000,Glass Panels,Lift
+P004,W01,Concrete,First Aid,S02,312-555-8001,Steel Beams,Crane
+P004,W01,Concrete,First Aid,S02,312-555-8001,Steel Beams,Lift
+P004,W01,Concrete,First Aid,S02,312-555-8001,Glass Panels,Crane
+P004,W01,Concrete,First Aid,S02,312-555-8001,Glass Panels,Lift
+P004,W01,Framing,OSHA,S02,312-555-8000,Steel Beams,Crane
+P004,W01,Framing,OSHA,S02,312-555-8000,Steel Beams,Lift
+P004,W01,Framing,OSHA,S02,312-555-8000,Glass Panels,Crane
+P004,W01,Framing,OSHA,S02,312-555-8000,Glass Panels,Lift
+P004,W01,Framing,OSHA,S02,312-555-8001,Steel Beams,Crane
+P004,W01,Framing,OSHA,S02,312-555-8001,Steel Beams,Lift
+P004,W01,Framing,OSHA,S02,312-555-8001,Glass Panels,Crane
+P004,W01,Framing,OSHA,S02,312-555-8001,Glass Panels,Lift
+P004,W01,Framing,First Aid,S02,312-555-8000,Steel Beams,Crane
+P004,W01,Framing,First Aid,S02,312-555-8000,Steel Beams,Lift
+P004,W01,Framing,First Aid,S02,312-555-8000,Glass Panels,Crane
+P004,W01,Framing,First Aid,S02,312-555-8000,Glass Panels,Lift
+P004,W01,Framing,First Aid,S02,312-555-8001,Steel Beams,Crane
+P004,W01,Framing,First Aid,S02,312-555-8001,Steel Beams,Lift
+P004,W01,Framing,First Aid,S02,312-555-8001,Glass Panels,Crane
+P004,W01,Framing,First Aid,S02,312-555-8001,Glass Panels,Lift
+P004,W05,Accounting,MBA,S04,206-555-6000,Glass Panels,Lift
+P004,W05,Accounting,First Aid,S04,206-555-6000,Glass Panels,Lift
+P004,W05,Procurement,MBA,S04,206-555-6000,Glass Panels,Lift
+P004,W05,Procurement,First Aid,S04,206-555-6000,Glass Panels,Lift
+P005,W03,Planning,PMP,S05,619-555-6500,Concrete,Bulldozer
+P005,W03,Planning,PMP,S05,619-555-6500,Concrete,Mixer
+P005,W03,Planning,PMP,S05,619-555-6500,Tiles,Bulldozer
+P005,W03,Planning,PMP,S05,619-555-6500,Tiles,Mixer
+P005,W03,Planning,OSHA,S05,619-555-6500,Concrete,Bulldozer
+P005,W03,Planning,OSHA,S05,619-555-6500,Concrete,Mixer
+P005,W03,Planning,OSHA,S05,619-555-6500,Tiles,Bulldozer
+P005,W03,Planning,OSHA,S05,619-555-6500,Tiles,Mixer
+P005,W03,Management,PMP,S05,619-555-6500,Concrete,Bulldozer
+P005,W03,Management,PMP,S05,619-555-6500,Concrete,Mixer
+P005,W03,Management,PMP,S05,619-555-6500,Tiles,Bulldozer
+P005,W03,Management,PMP,S05,619-555-6500,Tiles,Mixer
+P005,W03,Management,OSHA,S05,619-555-6500,Concrete,Bulldozer
+P005,W03,Management,OSHA,S05,619-555-6500,Concrete,Mixer
+P005,W03,Management,OSHA,S05,619-555-6500,Tiles,Bulldozer
+P005,W03,Management,OSHA,S05,619-555-6500,Tiles,Mixer
+P005,W02,Wiring,Electrical License,S05,619-555-6500,Concrete,Bulldozer
+P005,W02,Wiring,Electrical License,S05,619-555-6500,Concrete,Mixer
+P005,W02,Wiring,Electrical License,S05,619-555-6500,Tiles,Bulldozer
+P005,W02,Wiring,Electrical License,S05,619-555-6500,Tiles,Mixer
+P005,W02,Wiring,OSHA,S05,619-555-6500,Concrete,Bulldozer
+P005,W02,Wiring,OSHA,S05,619-555-6500,Concrete,Mixer
+P005,W02,Wiring,OSHA,S05,619-555-6500,Tiles,Bulldozer
+P005,W02,Wiring,OSHA,S05,619-555-6500,Tiles,Mixer
+P005,W02,Inspection,Electrical License,S05,619-555-6500,Concrete,Bulldozer
+P005,W02,Inspection,Electrical License,S05,619-555-6500,Concrete,Mixer
+P005,W02,Inspection,Electrical License,S05,619-555-6500,Tiles,Bulldozer
+P005,W02,Inspection,Electrical License,S05,619-555-6500,Tiles,Mixer
+P005,W02,Inspection,OSHA,S05,619-555-6500,Concrete,Bulldozer
+P005,W02,Inspection,OSHA,S05,619-555-6500,Concrete,Mixer
+P005,W02,Inspection,OSHA,S05,619-555-6500,Tiles,Bulldozer
+P005,W02,Inspection,OSHA,S05,619-555-6500,Tiles,Mixer
+P006,W04,Welding,Welding Cert,S06,404-555-6600,Concrete,Mixer
+P006,W04,Welding,OSHA,S06,404-555-6600,Concrete,Mixer
+P006,W04,Concrete,Welding Cert,S06,404-555-6600,Concrete,Mixer
+P006,W04,Concrete,OSHA,S06,404-555-6600,Concrete,Mixer
+P006,W01,Framing,OSHA,S06,404-555-6600,Concrete,Mixer
+P006,W01,Framing,First Aid,S06,404-555-6600,Concrete,Mixer
+P006,W01,Carpentry,OSHA,S06,404-555-6600,Concrete,Mixer
+P006,W01,Carpentry,First Aid,S06,404-555-6600,Concrete,Mixer
+P007,W05,Procurement,MBA,S02,312-555-8000,Steel Beams,Crane
+P007,W05,Procurement,MBA,S02,312-555-8000,Steel Beams,Excavator
+P007,W05,Procurement,MBA,S02,312-555-8000,Concrete,Crane
+P007,W05,Procurement,MBA,S02,312-555-8000,Concrete,Excavator
+P007,W05,Procurement,MBA,S02,312-555-8001,Steel Beams,Crane
+P007,W05,Procurement,MBA,S02,312-555-8001,Steel Beams,Excavator
+P007,W05,Procurement,MBA,S02,312-555-8001,Concrete,Crane
+P007,W05,Procurement,MBA,S02,312-555-8001,Concrete,Excavator
+P007,W05,Procurement,OSHA,S02,312-555-8000,Steel Beams,Crane
+P007,W05,Procurement,OSHA,S02,312-555-8000,Steel Beams,Excavator
+P007,W05,Procurement,OSHA,S02,312-555-8000,Concrete,Crane
+P007,W05,Procurement,OSHA,S02,312-555-8000,Concrete,Excavator
+P007,W05,Procurement,OSHA,S02,312-555-8001,Steel Beams,Crane
+P007,W05,Procurement,OSHA,S02,312-555-8001,Steel Beams,Excavator
+P007,W05,Procurement,OSHA,S02,312-555-8001,Concrete,Crane
+P007,W05,Procurement,OSHA,S02,312-555-8001,Concrete,Excavator
+P007,W05,Accounting,MBA,S02,312-555-8000,Steel Beams,Crane
+P007,W05,Accounting,MBA,S02,312-555-8000,Steel Beams,Excavator
+P007,W05,Accounting,MBA,S02,312-555-8000,Concrete,Crane
+P007,W05,Accounting,MBA,S02,312-555-8000,Concrete,Excavator
+P007,W05,Accounting,MBA,S02,312-555-8001,Steel Beams,Crane
+P007,W05,Accounting,MBA,S02,312-555-8001,Steel Beams,Excavator
+P007,W05,Accounting,MBA,S02,312-555-8001,Concrete,Crane
+P007,W05,Accounting,MBA,S02,312-555-8001,Concrete,Excavator
+P007,W05,Accounting,OSHA,S02,312-555-8000,Steel Beams,Crane
+P007,W05,Accounting,OSHA,S02,312-555-8000,Steel Beams,Excavator
+P007,W05,Accounting,OSHA,S02,312-555-8000,Concrete,Crane
+P007,W05,Accounting,OSHA,S02,312-555-8000,Concrete,Excavator
+P007,W05,Accounting,OSHA,S02,312-555-8001,Steel Beams,Crane
+P007,W05,Accounting,OSHA,S02,312-555-8001,Steel Beams,Excavator
+P007,W05,Accounting,OSHA,S02,312-555-8001,Concrete,Crane
+P007,W05,Accounting,OSHA,S02,312-555-8001,Concrete,Excavator
+P007,W03,Management,PMP,S03,305-555-7000,Rebar,Excavator
+P007,W03,Management,OSHA,S03,305-555-7000,Rebar,Excavator
+P007,W03,Planning,PMP,S03,305-555-7000,Rebar,Excavator
+P007,W03,Planning,OSHA,S03,305-555-7000,Rebar,Excavator

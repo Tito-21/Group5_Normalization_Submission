@@ -1,0 +1,17 @@
+ProjectID,SupplierID,MaterialSupplied,MaterialUnitCost
+P001,S01,Concrete,120
+P001,S01,Steel,300
+P001,S02,Steel Beams,500
+P002,S03,Rebar,200
+P002,S03,Concrete,110
+P003,S01,Bricks,2
+P003,S01,Cement,15
+P004,S02,Steel Beams,500
+P004,S02,Glass Panels,250
+P004,S04,Glass Panels,250
+P005,S05,Concrete,130
+P005,S05,Tiles,20
+P006,S06,Concrete,115
+P007,S02,Steel Beams,520
+P007,S02,Concrete,140
+P007,S03,Rebar,210

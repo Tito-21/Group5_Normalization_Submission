@@ -10,6 +10,10 @@ Send your result to Tito by **[deadline]** so it can go into the final zip.
 
 ## Cedric – 1NF & 2NF verification
 
+**Status: done.** Results are in [reviews/cedric/](reviews/cedric/README.md). All data checks pass.
+Two sentences in Stage 1 and Stage 2 need replacing:
+[reviews/cedric/findings_and_corrections.md](reviews/cedric/findings_and_corrections.md).
+
 1. Open `raw_data/big3_construction_raw_data.csv` and `1NF/construction_1nf.csv`.
 2. Pick 3 raw rows (suggestion: row 1, row 9, row 15). For each one, find its rows in the 1NF file
    and confirm that:
